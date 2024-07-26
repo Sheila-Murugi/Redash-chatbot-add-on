@@ -90,18 +90,6 @@ This project aims to develop an advanced data visualization and analytics dashbo
 - **Data Management**: Implement LLamaIndex for optimized data retrieval.
 - **Semantic Search**: Utilize vector databases for improved semantic search capabilities.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines before submitting any contributions.
-
-## Acknowledgments
-
-- Special thanks to the contributors and the open-source community for their support and tools.
-
 ---
 
 Feel free to customize this README to better suit your project's needs.
