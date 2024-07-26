@@ -1,4 +1,4 @@
-# # Redash YouTube Analytics Dashboard
+# Redash YouTube Analytics Dashboard
 
 ## Project Overview
 
